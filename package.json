@@ -1,0 +1,19 @@
+{
+  "name": "whatmore-assets",
+  "version": "1.0.0",
+  "description": "public repo for all whatmore js and css assets",
+  "main": "whatmore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projectx-tech/whatmore-assets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/projectx-tech/whatmore-assets/issues"
+  },
+  "homepage": "https://github.com/projectx-tech/whatmore-assets#readme"
+}
