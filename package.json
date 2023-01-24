@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/projectx-tech/whatmore-assets/issues"
   },
-  "homepage": "https://github.com/projectx-tech/whatmore-assets#readme"
+  "homepage": "https://github.com/projectx-tech/whatmore-assets#readme",
+  "dependencies": {
+    "np": "^7.6.3"
+  }
 }
