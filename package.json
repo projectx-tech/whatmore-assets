@@ -1,6 +1,6 @@
 {
   "name": "whatmore-assets",
-  "version": "1.0.115",
+  "version": "1.0.116",
   "description": "public repo for all whatmore js and css assets",
   "main": "whatmore.js",
   "scripts": {
