@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwhatmorelive_react=self.webpackChunkwhatmorelive_react||[]).push([[565],{1958:function(e){e.exports=".wht-neo-story-ring,.wht-neo-story-thumb{--wht-neo-story-radius:30%}"}}]);
