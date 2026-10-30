@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwhatmorelive_react=self.webpackChunkwhatmorelive_react||[]).push([[810],{8453:function(e){e.exports=".wht-neo-va{--wht-neo-va-section-gap:2.6em}.wht-neo-va-head{text-align:left}.wht-neo-va-section-label{border-bottom:1px solid var(--wht-neo-va-line,rgba(0,0,0,.12));margin-bottom:1em;padding-bottom:.55em}.wht-neo-va-section-n{font-size:.72em}"}}]);
